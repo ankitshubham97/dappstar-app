@@ -3,7 +3,7 @@ _Decentralized, temporary & secure access to your favourite content!_
 - - -
 Before we start, if you are the judge/panelist for , here are important quick links:
 1. Live Project: https://dappstar.vercel.app/
-2. Demo: https://vimeo.com/759182983
+2. Demo: https://vimeo.com/759196364
 3. Smart contract code: https://github.com/ankitshubham97/dappstar-app/blob/main/smart-contract/contracts/Minter7.sol
 4. How to interact with the live project: https://github.com/ankitshubham97/dappstar-app#interacting-with-the-live-project
 
@@ -176,6 +176,6 @@ This project aims to solve the obvious problems of creator economy(CE) viz centr
 [chain]: <https://testnet.coinex.net/>
 [nft-contract-address]: <https://testnet.coinex.net/address/0x476eaA416e7f2DaE54600d86c657c41F4081Ff9C>
 [CET]: <https://www.coinex.com/token>
-[demo]: <https://vimeo.com/759182983>
+[demo]: <https://vimeo.com/759196364>
 [quick-nft]: <https://github.com/ankitshubham97/dappstar-app#quick-nfts>
 [cid]: <https://docs.ipfs.tech/concepts/content-addressing/>
