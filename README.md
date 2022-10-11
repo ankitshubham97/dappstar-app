@@ -177,5 +177,5 @@ This project aims to solve the obvious problems of creator economy(CE) viz centr
 [nft-contract-address]: <https://testnet.coinex.net/address/0x476eaA416e7f2DaE54600d86c657c41F4081Ff9C>
 [CET]: <https://www.coinex.com/token>
 [demo]: <https://vimeo.com/759182983>
-[quick-nft]: <https://github.com/ankitshubham97/dappstar#quick-nfts>
+[quick-nft]: <https://github.com/ankitshubham97/dappstar-app#quick-nfts>
 [cid]: <https://docs.ipfs.tech/concepts/content-addressing/>
