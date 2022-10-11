@@ -3,7 +3,7 @@ _Decentralized, temporary & secure access to your favourite content!_
 - - -
 Before we start, if you are the judge/panelist for , here are important quick links:
 1. Live Project: https://dappstar.vercel.app/
-2. Demo: https://youtu.be/
+2. Demo: https://vimeo.com/759182983
 3. Smart contract code: https://github.com/ankitshubham97/dappstar-app/blob/main/smart-contract/contracts/Minter7.sol
 4. How to interact with the live project: https://github.com/ankitshubham97/dappstar-app#interacting-with-the-live-project
 
@@ -97,7 +97,7 @@ Let's try to understand how it all works by going through the journey!
 ## Deep diving into the implementation of the content encryption and storage on IPFS
 1. The creator goes to https://dappstar.vercel.app/ and connects her wallet.
 2. She sees an option to `manage` her content where she can `Add files`. She proceeds to upload a new file.
-3. Dappstar encrypts the file with the creator's key and uploads to IPFS via Chainlink. (Chainlink provides a nice AWS-S3-like interface, so its easier for Dappstar to manage files.)
+3. Dappstar encrypts the file with the creator's key and uploads to IPFS via Chainsafe. (Chainsafe provides a nice AWS-S3-like interface, so its easier for Dappstar to manage files.)
 4. Even though distributed, the content is secure (because of encryption) and highly available (multiple IPFS nodes hosting the content)
 5. When a fan with NFT tries to access a content, Dappstar verifies he really does hold NFT. After verification, Dappstar loads the encrypted file from IPFS, decrypts it using the creator's key and delivers to the fan.
 
@@ -176,6 +176,6 @@ This project aims to solve the obvious problems of creator economy(CE) viz centr
 [chain]: <https://testnet.coinex.net/>
 [nft-contract-address]: <https://testnet.coinex.net/address/0x476eaA416e7f2DaE54600d86c657c41F4081Ff9C>
 [CET]: <https://www.coinex.com/token>
-[demo]: <https://youtu.be>
+[demo]: <https://vimeo.com/759182983>
 [quick-nft]: <https://github.com/ankitshubham97/dappstar#quick-nfts>
 [cid]: <https://docs.ipfs.tech/concepts/content-addressing/>
